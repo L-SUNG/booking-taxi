@@ -1,0 +1,114 @@
+{
+   "booking":[
+      [
+         {
+            "boardingDate":"2022-2-2 17:30",
+            "originName":"JR渋谷駅",
+            "destinationName":"JR船橋駅",
+            "receiptCode":0
+         },
+         {
+            "boardingDate":"2022-2-14 09:30",
+            "originName":"JR蒲田駅",
+            "destinationName":"JR新宿駅",
+            "receiptCode":1
+         },
+         {
+            "boardingDate":"2022-3-1 13:30",
+            "originName":"東陽町駅",
+            "destinationName":"JR川崎駅",
+            "receiptCode":1
+         },
+         {
+            "boardingDate":"2022-2-21 14:00",
+            "originName":"渋田ストリーム",
+            "destinationName":"海浜幕張駅",
+            "receiptCode":0
+         },
+         {
+            "boardingDate":"2022-3-6 12:45",
+            "originName":"ジブリ美術館",
+            "destinationName":"調布駅",
+            "receiptCode":1
+         },
+         {
+            "boardingDate":"2022-3-9 11:20",
+            "originName":"江の島駅",
+            "destinationName":"鎌倉駅",
+            "receiptCode":0
+         },
+         {
+            "boardingDate":"2022-2-2 17:30",
+            "originName":"JR渋谷駅",
+            "destinationName":"JR船橋駅",
+            "receiptCode":0
+         },
+         {
+            "boardingDate":"2022-2-14 07:30",
+            "originName":"JR蒲田駅",
+            "destinationName":"JR新宿駅",
+            "receiptCode":1
+         },
+         {
+            "boardingDate":"2022-3-1 13:00",
+            "originName":"東陽町駅",
+            "destinationName":"JR川崎駅",
+            "receiptCode":1
+         },
+         {
+            "boardingDate":"2022-2-21 14:00",
+            "originName":"渋田ストリーム",
+            "destinationName":"海浜幕張駅",
+            "receiptCode":0
+         },
+         {
+            "boardingDate":"2022-3-6 12:45",
+            "originName":"ジブリ美術館",
+            "destinationName":"調布駅",
+            "receiptCode":1
+         },
+         {
+            "boardingDate":"2022-3-9 11:20",
+            "originName":"江の島駅",
+            "destinationName":"鎌倉駅",
+            "receiptCode":0
+         },
+         {
+            "boardingDate":"2022-2-2 17:30",
+            "originName":"JR渋谷駅",
+            "destinationName":"JR船橋駅",
+            "receiptCode":0
+         },
+         {
+            "boardingDate":"2022-2-14 07:30",
+            "originName":"JR蒲田駅",
+            "destinationName":"JR新宿駅",
+            "receiptCode":1
+         },
+         {
+            "boardingDate":"2022-3-1 13:00",
+            "originName":"東陽町駅",
+            "destinationName":"JR川崎駅",
+            "receiptCode":1
+         },
+         {
+            "boardingDate":"2022-2-21 14:00",
+            "originName":"渋田ストリーム",
+            "destinationName":"海浜幕張駅",
+            "receiptCode":0
+         },
+         {
+            "boardingDate":"2022-3-6 12:45",
+            "originName":"ジブリ美術館",
+            "destinationName":"調布駅",
+            "receiptCode":1
+         },
+         {
+            "boardingDate":"2022-3-9 11:20",
+            "originName":"江の島駅",
+            "destinationName":"鎌倉駅",
+            "receiptCode":0
+         }
+      ]
+   ]
+}
